@@ -17,17 +17,17 @@ import subprocess
 
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('8035327921:AAGsrLMn4q_AK7kArtzcQsov8gbNU3TQBlE')
+bot = telebot.TeleBot('7831955891:AAHE4evITglNy0H7iEUzO5lIDe5qy6iKhQY')
 
 # Admin user IDs
-admin_id = {"6240986259", "6240986259"}
+admin_id = {"6434780221", "6240986259"}
 
 # Files for data storage
 USER_FILE = "users.json"
 LOG_FILE = "log.txt"
 KEY_FILE = "keys.json"
 RESELLERS_FILE = "resellers.json"
-BOT_LINK = "@Paid_ddos_09_bot"
+BOT_LINK = "@LEGENDVIPDDOS1_bot"
 escaped_bot_link = BOT_LINK.replace('_', '\\_')
 
 # Per key cost for resellers
